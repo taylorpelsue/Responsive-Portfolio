@@ -134,6 +134,7 @@ a {
     border-top: 3px;
     border-top-color: #4aaaa5;
     border-top-style: solid;
+    bottom: 0;
  }
 
 #sidebar {
