@@ -348,7 +348,7 @@ a {
 @media only screen and (max-width: 768px) {
     #entirecontent {
         padding: 0;
-        width: 100%;
+        width: 100%;z
     }
     h2 {
         padding-left: 4%;
